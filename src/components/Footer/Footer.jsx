@@ -8,8 +8,8 @@ const Footer = () => {
         <div className="FlexColStart f-left">
           <img src="./logo2.png" alt="" width={120} />
           <span className="secondaryText">
-            Our vision is to make all peoplr <br />
-            the best place to live for them.
+            Our vision is to make all people <br />
+            live their life at the best place.
           </span>
         </div>
         <div className="flexColStart f-right">
